@@ -4,9 +4,6 @@ import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
 import multiprocessing as mp
-import soundcard as sc
-import soundfile as sf
-import sounddevice as sd
 import json
 from tencentcloud.common import credential
 from tencentcloud.common.profile.client_profile import ClientProfile
